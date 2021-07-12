@@ -1,13 +1,23 @@
 
-# Samuel Burtenshaw - Burtens
+# Welcome
 
-I am a third year student Studying towards a Batchor of Engineering with Honors, Majoring In Software Engineering at University Of Canterbury, New Zealand. 
+:hand: I am a third year student Studying towards a Batchor of Engineering with Honors, Majoring In Software Engineering at University Of Canterbury, New Zealand. 
 
-I am interested in a role that involves developing and testing of new software with an ultimate goal to make it easier for people to understand and work with technology and would eventually like to progress towards being a project manager.
+:mag: I am interested in a role that involves developing and testing of new software with an ultimate goal to make it easier for people to understand and work with technology and would eventually like to progress towards being a project manager.
+
+:books: I am learning how to impliment a spring boot based server api and connect that with a Single Page Application built around vue.js
 
 ## Goals
 
+**Short Term**
+- [ ] Better my understanding around CSS 
+- [ ] Learn how to use Docker in a CI/CD pipeline  
 
+**Long Term**
+
+- [ ] Find an Internship Over Summer 2021-22
+- [ ] Build and Setup a Local Data Server From Scratch
+- [ ] Finish My Degree
 
 ## Competencies
 
