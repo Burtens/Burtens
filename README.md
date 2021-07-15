@@ -1,7 +1,7 @@
 
 # Welcome
 
-:hand: I am a third year student Studying towards a Batchor of Engineering with Honors, Majoring In Software Engineering at University Of Canterbury, New Zealand. 
+:hand: I am a third year student Studying towards a Bachelor of Engineering with Honors, Majoring In Software Engineering at University Of Canterbury, New Zealand. 
 
 :mag: I am interested in a role that involves developing and testing of new software with an ultimate goal to make it easier for people to understand and work with technology and would eventually like to progress towards being a project manager.
 
