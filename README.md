@@ -1,11 +1,11 @@
 
 # Welcome
 
-:hand: I am a third year student Studying towards a Bachelor of Engineering with Honors, Majoring In Software Engineering at University Of Canterbury, New Zealand. 
+✋ I am a third-year student studying towards a Bachelor of Engineering with Honors, Majoring In Software Engineering at University Of Canterbury, New Zealand.
 
-:mag: I am interested in a role that involves developing and testing of new software with an ultimate goal to make it easier for people to understand and work with technology and would eventually like to progress towards being a project manager.
+🔍 I am interested in a role that involves developing and testing new software with an ultimate goal to make it easier for people to understand and work with technology and would eventually like to progress towards being a project manager.
 
-:books: I am learning how to impliment a spring boot based server api and connect that with a Single Page Application built around vue.js
+📚 I am learning how to implement a spring boot based server API and connect that with a Single Page Application built around vue.js
 
 ## Goals
 
