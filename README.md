@@ -11,11 +11,11 @@
 
 **Short Term**
 - [ ] Better my understanding around CSS 
-- [ ] Learn how to use Docker in a CI/CD pipeline  
+- [x] Learn how to use Docker in a CI/CD pipeline  
 
 **Long Term**
 
-- [ ] Find an Internship Over Summer 2021-22
+- [x] Find an Internship Over Summer 2021-22
 - [ ] Build and Setup a Local Data Server From Scratch
 - [ ] Build a vuetify plugin that provides autocompletion and documentation within jetbrains apps. 
 - [ ] Finish My Degree
