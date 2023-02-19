@@ -1,11 +1,11 @@
 
 # Welcome
 
-✋ I am a third-year student studying towards a Bachelor of Engineering with Honors, Majoring In Software Engineering at University Of Canterbury, New Zealand.
+✋ I am a graduate software engineer, graduating from the University of Canterbury in 2023.
 
 🔍 I am interested in a role that involves developing and testing new software with an ultimate goal to make it easier for people to understand and work with technology and would eventually like to progress towards being a project manager.
 
-📚 I am learning how to implement a spring boot based server API and connect that with a Single Page Application built around vue.js
+📚 I am currently working on automating planning tools and software for OSSAbility Limited
 
 ## Goals
 
@@ -15,10 +15,11 @@
 
 **Long Term**
 
-- [x] Find an Internship Over Summer 2021-22
+- [x] Find an Internship Over Summer 2022-23
+- [x] Finish My Degree
 - [ ] Build and Setup a Local Data Server From Scratch
 - [ ] Build a vuetify plugin that provides autocompletion and documentation within jetbrains apps. 
-- [ ] Finish My Degree
+
 
 ## Competencies
 
