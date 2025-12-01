@@ -1,7 +1,7 @@
 
 # Welcome
 
-✋ I am a graduate software engineer, graduating from the University of Canterbury in 2023.
+✋ I am a Junior software engineer, working on a range of exciting projects, ranging from data pipelines to webapps.
 
 🔍 I am interested in a role that involves developing and testing new software with an ultimate goal to make it easier for people to understand and work with technology and would eventually like to progress towards being a project manager.
 
